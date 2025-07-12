@@ -25,7 +25,7 @@ It's designed to help stakeholders understand key business metrics and make data
 - Created calculated columns and *DAX measures* for KPIs
 
 ## Dashboard Preview
-> ![Dashboard Preview](dashboard-preview.png)
+> ![Dashboard Preview](https://github.com/vidhi0528/ecommerce-sales-dashboard/blob/main/dashboard-preview.png)
 Screenshot of the main dashboard interface created in Power BI.
 
 ## Key Insights
